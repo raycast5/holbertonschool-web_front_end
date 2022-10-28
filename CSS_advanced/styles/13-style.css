@@ -70,7 +70,7 @@ h6{
     color: var(--color-primary)
 }
 
-a:any-link{
+a:link{
     text-decoration: none;
 }
 
@@ -83,5 +83,5 @@ a:hover{
 }
 
 a:active{
-    color: var(--color-light-grey);
+    background-color: var(--color-light-grey);
 }
